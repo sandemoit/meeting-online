@@ -5,8 +5,8 @@ import Sidebar from '@/components/Sidebar'
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: "RZoom",
-  description: "Video Callin with RZoom",
+  title: "Sans Meet",
+  description: "Video Callin with Sans Meet",
   icons: {
     icon: '/icons/logo.svg'
   }
