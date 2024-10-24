@@ -1,10 +1,22 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+API service providers support by getstream.io dan auth management clerk.com
+
+![Screenshot from 2024-10-24 21-00-17](https://github.com/user-attachments/assets/0c77835c-fcec-4841-ab9e-1d1d2e7899e6)
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+# copy paste .env.example
+cp .env.example .env
+
+replace your API Key and URL APP in .env
+
+# install npm
+npm install
+
+# run project
 npm run dev
 # or
 yarn dev
