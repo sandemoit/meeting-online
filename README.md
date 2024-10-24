@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-API service providers support by getstream.io dan auth management clerk.com
+API service providers support by [`getstream.io`](https://getstream.io) dan auth management [`clerk.com`](https://clerk.com).
 
 ![Screenshot from 2024-10-24 21-00-17](https://github.com/user-attachments/assets/0c77835c-fcec-4841-ab9e-1d1d2e7899e6)
 
